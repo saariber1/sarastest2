@@ -1,0 +1,124 @@
+Sentence,Image1,Image2,Item,Group
+Ela assistiu ao_filme_ e_de_repente João começou a_tocar violão.,Image13_B.png,Image13_A.png,D1,A
+Ela sentou no_sofá e_só_assim ela conseguiu dormir.,Image14_A.png,Image14_B.png,D2,A
+Sábado ela comeu a_comida antes_de tomar o_sorvete.,Image01_A.png,Image01_B.png,1AMSC,A
+Ela enviou mensagem para_João e_em_seguida ela chamou o_Uber.,Image15_B.png,Image15_A.png,D3,A
+Domingo ela expôs o_delito antes_de fechar a_torneira.,Image08_B.png,Image02_B.png,2AMSU,A
+Quando ela bateu no_portão o_João se_assustou.,Image16_A.png,Image16_B.png,D4,A
+No_feriado antes_de ouvir a_música ela ligou o_celular.,Image03_B.png,Image03_A.png,3ASMC,A
+Assim_que ela amarrou a_chuteira ela chutou a_bola.,Image17_B.png,Image17_A.png,D5,A
+Ontem ela assou o_pão então_hoje ela fez_sopa.,Image18_A.png,Image18_B.png,D6,A
+Sexta-feira antes_de pagar o_produto ela sujou a_janela.,Image04_B.png,Image10_B.png,4ASMU,A
+Ela ligou o_chuveiro e_de_repente João tocou a_campainha.,Image19_B.png,Image19_A.png,D7,A
+Semana_passada ela varreu o_tapete depois_de quebrar a_travessa.,Image05_B.png,Image05_A.png,5DMSC,A
+Ela esquentou o_lanche e_só_assim João arrumou a_mesa.,Image20_A.png,Image20_B.png,D8,A
+Terça-feira ela passou o_secador depois_de olhar o_presente.,Image06_B.png,Image12_B.png,6DMSU,A
+Ela organizou a_estante e_em_seguida descansou na_cama.,Image21_B.png,Image21_A.png,D9,A
+Quando ela bebeu refrigerante ela colocou a_lata_no_lixo.,Image22_A.png,Image22_B.png,D10,A
+De_noite depois_de contar o_dinheiro ela comprou o_vestido.,Image07_A.png,Image07_B.png,7DSMC,A
+Assim_que ela escreveu o_recado ela bateu a_porta.,Image23_B.png,Image23_A.png,D11,A
+Hoje depois_de chamar a_polícia ela lavou a_camisa.,Image08_A.png,Image02_A.png,8DSMU,A
+Ontem ela foi à_praia então_hoje ela passou hidratante.,Image24_A.png,Image24_B.png,D12,A
+Quinta-feira ela juntou o_salário antes_de saldar a_dívida.,Image09_A.png,Image09_B.png,9AMSC,A
+Ela conferiu o_cardápio e_de_repente ela amassou o_gardanapo.,Image25_B.png,Image25_A.png,D13,A
+Ela escreveu o_artigo e_só_assim ela leu o_livro.,Image26_A.png,Image26_B.png,D14,A
+Domingo ela pintou a_parede antes_de pegar a_carteira.,Image10_A.png,Image04_A.png,10AMSU,A
+Ela bordou o_short e_em_seguida ela tirou uma_foto.,Image27_B.png,Image27_A.png,D15,A
+No_feriado antes_de guardar o_casaco ela abriu o_armário.,Image11_B.png,Image11_A.png,11ASMC,A
+Quando ela apontou o_dedo João virou a_cabeça.,Image28_A.png,Image28_B.png,D16,A
+Sábado antes_de cortar o_cabelo ela rasgou o_plástico.,Image06_A.png,Image12_A.png,124ASMU,A
+Assim_que ela estendeu a_roupa ela puxou o_varal.,Image29_B.png,Image29_A.png,D17,A
+Ontem ela imprimiu a_foto então_hoje ela montou um_mural.,Image30_A.png,Image30_B.png,D18,A
+Sentence,Image1,Image2,Item,Group
+Ela assistiu ao_filme e_de_repente João começou a_tocar violão.,Image13_B.png,Image13_A.png,D1,B
+Ela sentou no_sofá e_só_assim ela conseguiu dormir.,Image14_A.png,Image14_B.png,D2,B
+Sábado ela comprou o_vestido antes_de tomar o_sorvete.,Image07_B.png,Image01_B.png,1AMSU,B
+Ela enviou mensagem para_João e_em_seguida ela chamou o_Uber.,Image15_B.png,Image15_A.png,D3,B
+Domingo antes_de fechar a_torneira ela lavou a_camisa.,Image02_B.png,Image02_A.png,2ASMC,B
+Quando ela bateu no_portão o_João se_assustou.,Image16_A.png,Image16_B.png,D4,B
+No_feriado ntes_de ouvir a_música ela saldou a_dívida.,Image03_B.png,Image09_B.png,3ASMU,B
+Assim_que ela amarrou a_chuteira ela chutou a_bola.,Image17_B.png,Image17_A.png,D5,B
+Ontem ela assou _o_pão então_hoje ela fez_sopa.,Image18_A.png,Image18_B.png,D6,B
+Sexta-feira ela pagou o_produto depois_de pegar a_carteira.,Image04_B.png,Image04_A.png,4DMSC,B
+Ela ligou o_chuveiro e_de_repente João tocou a_campainha.,Image19_B.png,Image19_A.png,D7,B
+Semana_passada ela varreu o_tapete depois_de guardar o_casaco.,Image05_B.png,Image11_B.png,5DMSU,B
+Ela esquentou o_lanche e_só_assim João_ arrumou a_mesa.,Image20_A.png,Image20_B.png,D8,B
+Terça-feira depois_de cortar o_cabelo ela passou o_secador.,Image06_A.png,Image06_B.png,6DSMC,B
+Ela organizou a_estante e_em_seguida descansou na_cama.,Image21_B.png,Image21_A.png,D9,B
+Quando_ela_bebeu_refrigerante_ela_colocou_a lata_no lixo.,Image22_A.png,Image22_B.png,D10,B
+De_noite depois_de contar o_dinheiro ela comeu a_comida.,Image07_A.png,Image01_A.png,7DSMU,B
+Assim que_ela_escreveu_o recado_ela_bateu_a porta.,Image23_B.png,Image23_A.png,D11,B
+Hoje_ela_chamou_a polícia_antes de_expor_o delito.,Image08_A.png,Image08_B.png,8AMSC,B
+Ontem ela foi à_praia então_hoje ela passou hidratante.,Image24_A.png,Image24_B.png,D12,B
+Quinta-feira ela juntou o_salário antes_de ligar o_celular.,Image09_A.png,Image03_A.png,9AMSU,B
+Ela conferiu o_cardápio e_de_repente ela amassou o_guardanapo.,Image25_B.png,Image25_A.png,D13,B
+Ela_escreveu_o artigo_e só assim_ela_leu_o livro.,Image26_A.png,Image26_B.png,D14,B
+Domingo antes_de sujar a_janela ela pintou a_parede.,Image10_B.png,Image10_A.png,10ASMC,B
+Ela bordou o_short e_em_seguida ela tirou uma_foto.,Image27_B.png,Image27_A.png,D15,B
+No_feriado ela abriu o_armário antes_de quebrar a_travessa.,Image11_A.png,Image05_A.png,11AMSU,B
+Quando ela apontou o_dedo João virou a_cabeça.,Image28_A.png,Image28_B.png,D16,B
+Sábado ela olhou o_presente depois_de rasgar o_plástico.,Image12_B.png,Image12_A.png,12DMSC,B
+Assim_que ela estendeu a_roupa ela puxou o_varal.,Image29_B.png,Image29_A.png,D17,B
+Ontem ela imprimiu a_foto então_hoje ela montou um_mural.,Image30_A.png,Image30_B.png,D18,B
+Sentence,Image1,Image2,Item,Group
+Ela assistiu ao_filme e_de_repente João começou a_tocar violão.,Image13_B.png,Image13_A.png,D1,C
+Ela sentou no_sofá e_só_assim ela conseguiu dormir.,Image14_A.png,Image14_B.png,D2,C
+Sábado antes_de tomar o_sorvete ela comeu a_comida.,Image01_B.png,Image01_A.png,1ASMC,C
+Ela enviou mensagem para_João e_em_seguida ela chamou o_Uber.,Image15_B.png,Image15_A.png,D3,C
+Domingo antes_de fechar a_torneira ela expôs o_delito.,Image02_B.png,Image08_B.png,2ASMU,C
+Quando ela bateu no_portão o_João se_assustou.,Image16_A.png,Image16_B.png,D4,C
+No_feriado ela ouviu a_música depois_de ligar o_celular.,Image03_B.png,Image03_A.png,3DMSC,C
+Assim_que ela amarrou a_chuteira ela chutou a_bola.,Image17_B.png,Image17_A.png,D5,C
+Ontem ela assou o_pão então_hoje ela fez_sopa.,Image18_A.png,Image18_B.png,D6,C
+Sexta-feira ela pagou o_produto depois_de sujar a_janela.,Image04_B.png,Image10_B.png,4DMSU,C
+Ela ligou o_chuveiro e_de_repente João tocou a_campainha.,Image19_B.png,Image19_A.png,D7,C
+Semana_passada depois_de quebrar a_travessa ela varreu o_tapete.,Image05_A.png,Image05_B.png,5DSMC,C
+Ela esquentou o_lanche e_só_assim João arrumou a_mesa.,Image20_A.png,Image20_B.png,D8,C
+Terça-feira depois_de olhar o_presente ela passou o_secador.,Image12_B.png,Image06_B.png,6DSMU,C
+Ela organizou a_estante e_em_seguida descansou na_cama.,Image21_B.png,Image21_A.png,D9,C
+Quando ela bebeu refrigerante ela colocou a_lata no_lixo.,Image22_A.png,Image22_B.png,D10,C
+De_noite ela contou o_dinheiro antes_de comprar o_vestido.,Image07_A.png,Image07_B.png,7AMSC,C
+Assim_que ela escreveu o_recado ela bateu a_porta.,Image23_B.png,Image23_A.png,D11,C
+Hoje ela chamou a_polícia antes_de lavar a_camisa.,Image08_A.png,Image02_A.png,8AMSU,C
+Ontem ela foi à_praia então hoje ela passou hidratante.,Image24_A.png,Image24_B.png,D12,C
+Quinta-feira antes_de saldar a_dívida ela juntou o_salário.,Image09_B.png,Image09_A.png,9ASMC,C
+Ela conferiu o_cardápio e_de_repente ela amassou o_folheto.,Image25_B.png,Image25_A.png,D13,C
+Ela escreveu o_artigo e_só_assim ela leu o_livro.,Image26_A.png,Image26_B.png,D14,C
+Domingo antes_de pegar a_carteira ela pintou a_parede.,Image04_A.png,Image10_A.png,10ASMU,C
+Ela bordou o_short e_em_seguida ela tirou uma_foto.,Image27_B.png,Image27_A.png,D15,C
+No_feriado ela guardou o_casaco depois_de abrir o_armário.,Image11_B.png,Image11_A.png,11DMSC,C
+Quando ela apontou o_dedo João virou a_cabeça.,Image28_A.png,Image28_B.png,D16,C
+Sábado ela cortou o_cabelo depois_de rasgar o_plástico.,Image06_A.png,Image12_A.png,12DMSU,C
+Assim_que ela estendeu a_roupa ela puxou o_varal.,Image29_B.png,Image29_A.png,D17,C
+Ontem ela imprimiu a_foto então hoje ela montou um_mural.,Image30_A.png,Image30_B.png,D18,C
+Sentence,Image1,Image2,Item,Group
+Ela assistiu ao_filme e_de_repente João começou a_tocar violão.,Image13_B.png,Image13_A.png,D1,D
+Ela sentou no_sofá e_só_assim ela conseguiu dormir.,Image14_A.png,Image14_B.png,D2,D
+Sábado antes_de tomar o_sorvete ela comprou o_vestido.,Image01_B.png,Image07_B.png,1ASMU,D
+Ela enviou mensagem para_João e_em_seguida ela chamou o_Uber.,Image15_B.png,Image15_A.png,D3,D
+Domingo ela fechou a_torneira depois_de lavar a_camisa.,Image02_B.png,Image02_A.png,2DMSC,D
+Quando ela bateu no_portão o_João se_assustou.,Image16_A.png,Image16_B.png,D4,D
+No_feriado ela ouviu a_música depois_de saldar a_dívida.,Image03_B.png,Image09_B.png,3DMSU,D
+Assim_que ela amarrou a_chuteira ela chutou a_bola.,Image17_B.png,Image17_A.png,D5,D
+Ontem ela assou o_pão então_hoje ela fez_sopa.,Image18_A.png,Image18_B.png,D6,D
+Sexta-feira depois_de pegar a_carteira ela pagou o_produto.,Image04_A.png,Image04_B.png,4DSMC,D
+Ela ligou o_chuveiro e_de_repente João tocou a_campainha.,Image19_B.png,Image19_A.png,D7,D
+Semana_passada depois_de guardar o_casaco ela varreu o_tapete.,Image11_B.png,Image05_B.png,5DSMU,D
+Ela esquentou o_lanche e_só_assim João arrumou a_mesa.,Image20_A.png,Image20_B.png,D8,D
+Terça-feira ela cortou o_cabelo antes_de passar o_secador.,Image06_A.png,Image06_B.png,6AMSC,D
+Ela organizou a_estante e_em_seguida descansou na_cama.,Image21_B.png,Image21_A.png,D9,D
+Quando ela bebeu_refrigerante ela colocou a_lata no_lixo.,Image22_A.png,Image22_B.png,D10,D
+De_noite ela contou o_dinheiro antes_de comer a_comida.,Image07_A.png,Image01_A.png,7AMSU,D
+Assim_que ela escreveu o_recado ela bateu a_porta.,Image23_B.png,Image23_A.png,D11,D
+Hoje antes_de expor o_delito ela chamou a_polícia.,Image08_B.png,Image08_A.png,8ASMC,D
+Ontem ela foi à_praia então_hoje ela passou hidratante.,Image24_A.png,Image24_B.png,D12,D
+Quinta-feira ela juntou o_salário antes_de ligar o_celular.,Image09_A.png,Image03_A.png,9AMSU,D
+Ela conferiu o_cardápio e_de_repente ela amassou o_guardanapo.,Image25_B.png,Image25_A.png,D13,D
+Ela escreveu o_artigo e_só_assim ela leu o_livro.,Image26_A.png,Image26_B.png,D14,D
+Domingo ela sujou a_janela depois_de pintar a_parede.,Image10_B.png,Image10_A.png,10DMSC,D
+Ela bordou o_short e_em_seguida ela tirou uma_foto.,Image27_B.png,Image27_A.png,D15,D
+No_feriado ela quebrou a_travessa depois_de abrir o_armário.,Image05_A.png,Image11_A.png,11DMSU,D
+Quando ela apontou o_dedo João virou a_cabeça.,Image28_A.png,Image28_B.png,D16,D
+Sábado depois_de rasgar o_plástico ela olhou o_presente.,Image12_A.png,Image12_B.png,12DSMC,D
+Assim_que ela estendeu a_roupa ela puxou o_varal.,Image29_B.png,Image29_A.png,D17,D
+Ontem ela imprimiu a_foto então_hoje ela montou um_mural.,Image30_A.png,Image30_B.png,D18,D
