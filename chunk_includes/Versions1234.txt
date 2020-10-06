@@ -76,7 +76,7 @@ Terça-feira depois_de olhar o_presente ela passou o_secador.,Image12_B.png,Imag
 Ela organizou a_estante e_em_seguida descansou na_cama.,Image21_B.png,Image21_A.png,D9,C
 Quando ela bebeu refrigerante ela colocou a_lata no_lixo.,Image22_A.png,Image22_B.png,D10,C
 De_noite ela contou o_dinheiro antes_de comprar o_vestido.,Image07_A.png,Image07_B.png,7AMSC,C
-Assim_que ela escreveu o_recado ela bateu a_porta.,Image23_B.png,Image23_A.png,D11,C
+Assim_que ela escreveu o_recado ela bateu na_porta.,Image23_B.png,Image23_A.png,D11,C
 Hoje ela chamou a_polícia antes_de lavar a_camisa.,Image08_A.png,Image02_A.png,8AMSU,C
 Ontem ela foi à_praia então hoje ela passou hidratante.,Image24_A.png,Image24_B.png,D12,C
 Quinta-feira antes_de saldar a_dívida ela juntou o_salário.,Image09_B.png,Image09_A.png,9ASMC,C
