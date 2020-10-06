@@ -35,7 +35,7 @@ Sábado ela comprou o_vestido antes_de tomar o_sorvete.,Image07_B.png,Image01_B.
 Ela enviou mensagem para_João e_em_seguida ela chamou o_Uber.,Image15_B.png,Image15_A.png,D3,B
 Domingo antes_de fechar a_torneira ela lavou a_camisa.,Image02_B.png,Image02_A.png,2ASMC,B
 Quando ela bateu no_portão o_João se_assustou.,Image16_A.png,Image16_B.png,D4,B
-No_feriado ntes_de ouvir a_música ela saldou a_dívida.,Image03_B.png,Image09_B.png,3ASMU,B
+No_feriado antes_de ouvir a_música ela saldou a_dívida.,Image03_B.png,Image09_B.png,3ASMU,B
 Assim_que ela amarrou a_chuteira ela chutou a_bola.,Image17_B.png,Image17_A.png,D5,B
 Ontem ela assou _o_pão então_hoje ela fez_sopa.,Image18_A.png,Image18_B.png,D6,B
 Sexta-feira ela pagou o_produto depois_de pegar a_carteira.,Image04_B.png,Image04_A.png,4DMSC,B
