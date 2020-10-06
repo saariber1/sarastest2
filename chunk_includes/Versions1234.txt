@@ -45,14 +45,14 @@ Semana_passada ela varreu o_tapete depois_de guardar o_casaco.,Image05_B.png,Ima
 Ela esquentou o_lanche e_só_assim João_ arrumou a_mesa.,Image20_A.png,Image20_B.png,D8,B
 Terça-feira depois_de cortar o_cabelo ela passou o_secador.,Image06_A.png,Image06_B.png,6DSMC,B
 Ela organizou a_estante e_em_seguida descansou na_cama.,Image21_B.png,Image21_A.png,D9,B
-Quando_ela_bebeu_refrigerante_ela_colocou_a lata_no lixo.,Image22_A.png,Image22_B.png,D10,B
+Quando ela bebeu refrigerante ela colocou a_lata no_lixo.,Image22_A.png,Image22_B.png,D10,B
 De_noite depois_de contar o_dinheiro ela comeu a_comida.,Image07_A.png,Image01_A.png,7DSMU,B
-Assim que_ela_escreveu_o recado_ela_bateu_a porta.,Image23_B.png,Image23_A.png,D11,B
-Hoje_ela_chamou_a polícia_antes de_expor_o delito.,Image08_A.png,Image08_B.png,8AMSC,B
+Assim_que ela escreveu o_recado ela bateu a_porta.,Image23_B.png,Image23_A.png,D11,B
+Hoje ela chamou a_polícia antes_de expor o_delito.,Image08_A.png,Image08_B.png,8AMSC,B
 Ontem ela foi à_praia então_hoje ela passou hidratante.,Image24_A.png,Image24_B.png,D12,B
 Quinta-feira ela juntou o_salário antes_de ligar o_celular.,Image09_A.png,Image03_A.png,9AMSU,B
 Ela conferiu o_cardápio e_de_repente ela amassou o_guardanapo.,Image25_B.png,Image25_A.png,D13,B
-Ela_escreveu_o artigo_e só assim_ela_leu_o livro.,Image26_A.png,Image26_B.png,D14,B
+Ela escreveu o_artigo e_só_assim ela leu o_livro.,Image26_A.png,Image26_B.png,D14,B
 Domingo antes_de sujar a_janela ela pintou a_parede.,Image10_B.png,Image10_A.png,10ASMC,B
 Ela bordou o_short e_em_seguida ela tirou uma_foto.,Image27_B.png,Image27_A.png,D15,B
 No_feriado ela abriu o_armário antes_de quebrar a_travessa.,Image11_A.png,Image05_A.png,11AMSU,B
