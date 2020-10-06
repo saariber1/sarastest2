@@ -14,7 +14,7 @@ Semana_passada ela varreu o_tapete depois_de quebrar a_travessa.,Image05_B.png,I
 Ela esquentou o_lanche e_só_assim João arrumou a_mesa.,Image20_A.png,Image20_B.png,D8,A
 Terça-feira ela passou o_secador depois_de olhar o_presente.,Image06_B.png,Image12_B.png,6DMSU,A
 Ela organizou a_estante e_em_seguida descansou na_cama.,Image21_B.png,Image21_A.png,D9,A
-Quando ela bebeu refrigerante ela colocou a_lata_no_lixo.,Image22_A.png,Image22_B.png,D10,A
+Quando ela bebeu refrigerante ela colocou a_lata no_lixo.,Image22_A.png,Image22_B.png,D10,A
 De_noite depois_de contar o_dinheiro ela comprou o_vestido.,Image07_A.png,Image07_B.png,7DSMC,A
 Assim_que ela escreveu o_recado ela bateu a_porta.,Image23_B.png,Image23_A.png,D11,A
 Hoje depois_de chamar a_polícia ela lavou a_camisa.,Image08_A.png,Image02_A.png,8DSMU,A
@@ -29,7 +29,6 @@ Quando ela apontou o_dedo João virou a_cabeça.,Image28_A.png,Image28_B.png,D16
 Sábado antes_de cortar o_cabelo ela rasgou o_plástico.,Image06_A.png,Image12_A.png,124ASMU,A
 Assim_que ela estendeu a_roupa ela puxou o_varal.,Image29_B.png,Image29_A.png,D17,A
 Ontem ela imprimiu a_foto então_hoje ela montou um_mural.,Image30_A.png,Image30_B.png,D18,A
-Sentence,Image1,Image2,Item,Group
 Ela assistiu ao_filme e_de_repente João começou a_tocar violão.,Image13_B.png,Image13_A.png,D1,B
 Ela sentou no_sofá e_só_assim ela conseguiu dormir.,Image14_A.png,Image14_B.png,D2,B
 Sábado ela comprou o_vestido antes_de tomar o_sorvete.,Image07_B.png,Image01_B.png,1AMSU,B
@@ -60,7 +59,6 @@ Quando ela apontou o_dedo João virou a_cabeça.,Image28_A.png,Image28_B.png,D16
 Sábado ela olhou o_presente depois_de rasgar o_plástico.,Image12_B.png,Image12_A.png,12DMSC,B
 Assim_que ela estendeu a_roupa ela puxou o_varal.,Image29_B.png,Image29_A.png,D17,B
 Ontem ela imprimiu a_foto então_hoje ela montou um_mural.,Image30_A.png,Image30_B.png,D18,B
-Sentence,Image1,Image2,Item,Group
 Ela assistiu ao_filme e_de_repente João começou a_tocar violão.,Image13_B.png,Image13_A.png,D1,C
 Ela sentou no_sofá e_só_assim ela conseguiu dormir.,Image14_A.png,Image14_B.png,D2,C
 Sábado antes_de tomar o_sorvete ela comeu a_comida.,Image01_B.png,Image01_A.png,1ASMC,C
@@ -91,7 +89,6 @@ Quando ela apontou o_dedo João virou a_cabeça.,Image28_A.png,Image28_B.png,D16
 Sábado ela cortou o_cabelo depois_de rasgar o_plástico.,Image06_A.png,Image12_A.png,12DMSU,C
 Assim_que ela estendeu a_roupa ela puxou o_varal.,Image29_B.png,Image29_A.png,D17,C
 Ontem ela imprimiu a_foto então hoje ela montou um_mural.,Image30_A.png,Image30_B.png,D18,C
-Sentence,Image1,Image2,Item,Group
 Ela assistiu ao_filme e_de_repente João começou a_tocar violão.,Image13_B.png,Image13_A.png,D1,D
 Ela sentou no_sofá e_só_assim ela conseguiu dormir.,Image14_A.png,Image14_B.png,D2,D
 Sábado antes_de tomar o_sorvete ela comprou o_vestido.,Image01_B.png,Image07_B.png,1ASMU,D
