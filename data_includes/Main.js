@@ -38,7 +38,7 @@ newTrial("Instruction",
     .css("font-size","1.2em")
     .print()
     ,
-    newText("<p>Por favor, escreva seu E-MAIL na caixa abaixo.</p>")
+    newText("<p>Por favor, escreva o E-MAIL do seu respons&aacutevel na caixa abaixo.</p>")
      .css("font-size","1.2em")
     .print()
     ,
@@ -58,7 +58,7 @@ newTrial("Instruction",
     .css("font-size","1.2em")
     ,
     newDropDown("Escolaridade")
-    .settings.add( "Ensino M&eacute;dio Completo" , "Ensino Superior Incompleto" , "Ensino Superior em Curso" , "Ensino Superior Completo", "Especializa&ccedil;&atilde;o", "Mestrado" , "Doutorado") 
+    .settings.add( "Oitavo Ano EF2" , "Nono Ano EF2") 
     .print()
     ,
     newButton("Iniciar")
@@ -97,7 +97,7 @@ newTrial("Screen1",
         
     newText("Termo de Consentimento Livre e Esclarecido </p>"),
     
-    newText("Esta pesquisa est&aacute sendo desenvolvida pela aluna do curso de Doutorado em Lingu&iacutestica da UFRJ Sara Ribeiro, sob a orienta&ccedil&atildeo do professor Marcus Maia.</p> A finalidade deste trabalho &eacute contribuir com a ci&ecircncia.</p> Solicitamos sua autoriza&ccedil&atildeo para utilizar seus dados em eventos da &aacuterea e publica&ccedil&otildees posteriores.</p> Basta voc&ecirc escrever EU CONCORDO na caixa de texto abaixo. "),
+    newText("Esta pesquisa est&aacute sendo desenvolvida pela aluna do curso de Doutorado em Lingu&iacutestica da UFRJ Sara Ribeiro, sob a orienta&ccedil&atildeo do professor Marcus Maia.</p> A finalidade deste trabalho &eacute contribuir com a ci&ecircncia.</p> Solicitamos autoriza&ccedil&atildeo do seu respons&aacutevel para utilizar seus dados em eventos da &aacuterea e publica&ccedil&otildees posteriores.</p> Basta seu respons&aacutevel escrever EU CONCORDO na caixa de texto abaixo. "),
     
     newTextInput("tcle")
         .css("font-size","1.2em")
